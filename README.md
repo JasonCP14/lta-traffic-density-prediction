@@ -6,7 +6,7 @@ LTA Traffic Density Prediction App is a real-time Singapore traffic density pred
 To use the app, do the steps below:
 1. Download the files to your local folder
 2. Open your Docker Desktop application
-3. Go to the `lta-traffic-densitRun` and run `docker compose up` on the root directory
+3. Go to the `lta-traffic-density-prediction` and run `docker compose up` on the root directory
 4. Wait for the build to finish
 5. When the build is finished, wait 3 minutes for the app to run
 
