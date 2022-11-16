@@ -1,15 +1,5 @@
 version: "3.9"
 services:
-  # gpu_test:
-  #   image: nvidia/cuda:10.2-base
-  #   command: nvidia-smi
-  #   deploy:
-  #     resources:
-  #       reservations:
-  #         devices:
-  #           - driver: nvidia
-  #             count: 1
-  #             capabilities: [gpu]
   rabbitmq:
     hostname: rabbitmq
     container_name: rabbitmq
